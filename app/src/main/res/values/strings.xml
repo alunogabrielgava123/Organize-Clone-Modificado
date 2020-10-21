@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Organize</string>
+    <string name="titulo_slider_1">Organize suas compras da onde estiver!</string>
+    <string name="subtitulo_slider_1">Da onde estiver facil e rapido!</string>
+    <string name="titulo_slider_2">Saiba para onde esta indo seu dinheiro</string>
+    <string name="subtitulo_slider_2">Categorizando seus lançamentos e sabendo o destino de cada centavo!</string>
+    <string name="titulo_slider_3">Nunca mais esqueça de pagar uma conta!</string>
+    <string name="subtitulo_slider3">Receba alertas quando quiser!</string>
+    <string name="titulo_slider_4">Tudo organizado pelo celular ou computador</string>
+    <string name="subtitulo_slider4">Use seu iphone mais informacoes entre no organize www.organize.com.br</string>
+
+
+    //strings intro slider
+
+    <string name="cria_1">Crie sua conta gratis!</string>
+    <string name="cria_2">Junte-se a mais de meio milhão de pessoas e começe ja!</string>
+    <string name="button_cadastre">Cadastre</string>
+    <string name="butto_ja_tenho_conta">Já tenho uma conta</string>
+
+
+    //string Activity login e cadastro
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="cadastro">Cadastre agore!</string>
+    <string name="button_login">Entrar</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    //interface receita / despesa
+    <string name="ex_salario">ex: Salário</string>
+    <string name="ex_salario_mensal">ex: Salário mensal</string>
+    <string name="ex_data">ex: 25/05/20</string>
+    <string name="title_activity_fodase">fodase</string>
+
+</resources>
